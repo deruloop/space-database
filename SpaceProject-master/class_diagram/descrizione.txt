@@ -1,0 +1,10 @@
+Il ClassDiagram rappresenta un modello della struttura implementativa e grafica del progetto.
+Lo abbiamo pensato suddiviso in due sottogruppi:
+il primo rappresenta la descrizione implementativa, dove vengono mostrate le dipendenze tra i modelli presi in
+considerazione e la loro gestione.
+il secondo utilizza un approccio differente, nello specifico, nella descrizione grafica vengono escluse le dipendenze
+tra le singole interfacce siccome la navigazione tra di esse presenta una libertà di movimento tale che quasi tutte le 
+classi sono in dipendenza le une con le altre; abbiamo rappresentato quindi la classe grafica che viene utilizzata in 
+questo progetto e che implementa i vari oggetti richiamati dalle interfacce.
+Allegati ci sono i ClassDiagram dei singoli sottogruppi e un ClassDiagram totale nei livelli View-Controller-Model, che 
+mostra le molteplici dipendenze.
